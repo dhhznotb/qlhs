@@ -1,0 +1,13 @@
+/* CSS cho khung Thanh Toán */
+.thanhtoan-container {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .qr-image {
+    max-width: 100%;
+  }
+  
